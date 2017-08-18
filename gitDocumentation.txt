@@ -1,1 +1,1 @@
-Reference for git
+Reference for gitm
